@@ -10,3 +10,4 @@ print("The new string after swapping the first 2 characters of each string is:",
 
 print('I have completed this program successfully')
 print('My next target is to learn generator programs')
+print('My second target is learn decorators program')
