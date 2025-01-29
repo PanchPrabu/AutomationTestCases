@@ -8,5 +8,5 @@ new_str1=str2[:2]+str1[2:]
 new_str2=str1[:2]+str2[2:]
 print("The new string after swapping the first 2 characters of each string is:",new_str1+" "+new_str2)
 
-
-
+print('I have completed this program successfully')
+print('My next target is to learn generator programs')
