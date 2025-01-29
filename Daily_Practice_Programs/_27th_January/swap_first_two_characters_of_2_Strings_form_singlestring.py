@@ -2,6 +2,7 @@
 # swap the first two characters of each string
 
 
+
 str1=input('enter the first string')
 str2=input('enter the second string')
 new_str1=str2[:2]+str1[2:]
