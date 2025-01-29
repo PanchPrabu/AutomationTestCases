@@ -9,5 +9,5 @@ new_str1=str2[:2]+str1[2:]
 new_str2=str1[:2]+str2[2:]
 print("The new string after swapping the first 2 characters of each string is:",new_str1+" "+new_str2)
 
-print("Received the program out put successfully")
+
 
